@@ -30,5 +30,35 @@ Este projeto tem como objetivo o desenvolvimento de um sistema de **cadastro de 
 
 ---
 
-## 🧩 Estrutura do Projeto
+📈 O que foi feito para atender o projeto
+
+    Análise dos requisitos para definir os campos essenciais do perfil de usuário
+
+    Planejamento da arquitetura em camadas para facilitar manutenção e testes
+
+    Implementação da interface com foco em usabilidade e responsividade
+
+    Criação de uma API RESTful para manipulação dos dados de cadastro
+
+    Integração via Axios com tratamento de erros e loading
+
+    Organização do código com boas práticas e tipagem estática
+
+    Separação das responsabilidades com componentes reutilizáveis e rotas modulares
+
+🧠 Aprendizados
+
+Este projeto reforçou conceitos fundamentais como:
+
+    Estruturação de uma SPA com Vue 3 + Quasar
+
+    Boas práticas com TypeScript no front e back
+
+    Consumo e construção de APIs REST
+
+    Validação de dados no front-end e back-end
+
+    Experiência prática com Vue Router e Axios
+
+
 
